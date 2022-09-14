@@ -1,0 +1,12 @@
+run('main.m');
+run('Direct_Kinematic.m');
+run('omega_solver.m');
+run('Velocity_solver.m');
+run('omega_dot_solver.m');
+run('Velocity_dot_solver.m');
+run('V_C_dot_solver.m');
+run('F_solver.m');
+run('N_solver.m');
+run('fi_solver.m');
+run('n_i_solver.m');
+run('thau_solver.m');
